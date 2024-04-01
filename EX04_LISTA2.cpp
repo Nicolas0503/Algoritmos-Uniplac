@@ -12,7 +12,7 @@ using  namespace std;
     cout << " informe um valor: ";
     cin >> valor;
 
-    if (valor >= 0)
+    if (valor > 0)
     {
         cout << " seu valor é positivo ";
     }
